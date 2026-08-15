@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: bai2
+  profiles:
+    active: cloud
